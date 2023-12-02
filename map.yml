@@ -1,0 +1,4 @@
+map_name: zombielandusa
+games:
+- {game_name: ZombielandUSA, file_name: Zombieland_USA.xml}
+version: 0
